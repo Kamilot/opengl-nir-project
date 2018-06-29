@@ -1,0 +1,3 @@
+/home/kamilot/projects/opengl/first-try/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kamilot/projects/opengl/first-try/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kamilot/projects/opengl/first-try/cmake-build-debug/CMakeFiles/first_try.dir
