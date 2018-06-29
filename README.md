@@ -10,10 +10,10 @@ Textures should be put under *resources/textures*.
 Cmake files are set up to build project under linux system:
 
 Recommended libraries (might be required, didn't run into the building issue):
-'''
+```
 X11 Xi Xrandr pthread
-'''
+```
 required libraries:
-'''
+```
 glfw3 GL dl
-'''
+```
